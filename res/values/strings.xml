@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="server_or_client">服务器端/客户端</string>
+    <string name="client">客户端</string>
+    <string name="server">服务器端</string>
+    <string name="ip_input_hint">192.168.253.254</string>
+    <string name="port_input_hint">Port</string>
+    <string name="RemotePort">远程端口号：</string>
+    <string name="ip_adress">远程IP地址：</string>
+    <string name="connect">连接</string>
+    <string name="send_to_net">发送到网络</string>
+    <string name="send_to_local">发送到本地串口</string>
+    
+    
+     <string name="textView_select">请选择要启动的窗口</string>
+      <string name="btn_client_select">客户端</string>
+       <string name="btn_server_select">服务器</string>
+          <string name="line_feed">换行</string>
+             <string name="timming_send">定时发送</string>
+              <string name="local_IpAdress_display">点击监听显示本机IP</string>
+               <string name="local_ip_adress">本地IP为：</string>
+               <string name="LocalPort">本地端口：</string>
+                 <string name="local_port_config_hint">1234</string>
+               
+               
+              <string name="listen">监听</string>
+                 
+               
+             
+       
+     
+     
+    
+    <string name="wmlib_app_name_2014">移动智能终端实验平台</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="net_com">网络通讯</string>
+    <string name="mobile_3G_not_ok">3G数据未开启!!!</string>
+    <string name="mobile_4G_not_ok">4G数据未开启!!!</string>
+    <string name="eth0_not_ok">以太网络未连接!!!</string>
+    <string name="wifi_not_ok">WIFI网络未连接!!!</string>
+    <string name="uart_config">串口配置</string>
+    <string name="at_cmd_test">AT命令</string>
+	<string name="es_g_develop_plat">嵌入式通用开发平台</string>
+	<string name="aos_porting">Android系统移植</string>
+	<string name="a_app_develop">Android应用开发</string>
+	<string name="func_module">功能模块</string>
+	<string name="mobile_com_module">移动通信模块</string>
+	<string name="terminal_test_module">终端测试平台</string>
+	<string name="terminal_innovate_app">终端创新应用</string>
+	<string name="uart_com">串口通信</string>
+	<string name="adc_voltage_collect">ADC电压采集</string>
+	<string name="pwm_buzzer">PWM蜂呜器</string>
+	<string name="record_playback">录音和放音</string>
+	<string name="eth_com">以太网通信</string>
+	<string name="rw_dev_rom">读写设备存储器</string>
+	<string name="led_ligthing">LED点灯</string>
+	<string name="speaker_on_off">音箱开关</string>
+	<string name="speaker_on">开</string>
+	<string name="speaker_off">关</string>
+	<string name="helloworld_imp">HelloWorld实现</string>
+	<string name="QR_Research">一二维码识别</string>
+	<string name="Tetris">俄罗斯方块</string>
+	<string name="Snake">贪吃蛇</string>
+	<string name="perpetual_calendar">万年历</string>
+	<string name="Sudoku_unlock">九宫解锁</string>
+	<string name="music_player">音乐播放器</string>
+	<string name="SDIO_WIFI">SDIO WIFI</string>
+	<string name="USB_WIFI">USB WIFI</string>
+	<string name="USB_Camera">USB 摄像头</string>
+	<string name="SDIO_Camera">CMOS 摄像头</string>
+	<string name="Camera">摄像头</string>
+	<string name="BD_GPS">BD/GPS</string>
+	<string name="GPIO_KBD">GPIO键盘</string>
+	<string name="Mobile_2G_com_sms">2G通信模块语音及短信</string>
+	<string name="Mobile_3G_terminal_Internet">3G数据终端上网</string>
+	<string name="Mobile_4G_terminal_Internet">4G数据终端上网</string>
+	<string name="Mobile_2_3G_terminal_test">2G/3G测试终端</string>
+	<string name="programmable_power_supply">程控电源</string>
+	<string name="graphical_test_result">测试结果图形显示</string>
+	<string name="wireless_ligthing">GPRS无线点灯</string>
+	<string name="mobile_location">移动定位</string>
+	<string name="qq_video_call">QQ视频通话</string>
+	<string name="bus_query">公交查询</string>
+	<string name="hotel_book_system">酒店预订系统</string>
+	<string name="GPS_Navigation">GPS导航</string>
+	<string name="WIFI_ligthing_led">WIFI点LED灯实验</string>
+	<string name="face_recognition">人脸识别</string>
+	<string name="imitate_qq_cs">仿QQ客户端和服务器</string>
+	<string name="vibrating_motor">振动马达</string>
+	 
+	<string name="open_uart">打开串口</string>
+	<string name="close_uart">关闭串口</string>
+	<string name="send_uart">发送</string>
+	<string name="clear_screen">清除显示</string>
+	<string name="hex_mode">十六进制模式</string>
+	
+	<string name="Baud_rate">波特率</string>
+	 <string name="uart">串  口</string>
+	<string name="data_bit">数据位</string>
+	<string name="check_bit">检验位</string>
+	<string name="stop_bit">停止位</string>
+	<string name="configOK">配置完成</string>
+	<string name="sms_send">发送短信</string>
+	<string name="call_dial">快速拨号</string>
+	<string name="sms_recv">接收短信</string>
+	
+	<string name="vbmotor_start">启动振动马达</string>
+	<string name="vbmotor_stop">停止振动马达</string>
+	<string name="vbmotor_strength">振动强度</string>
+	<string name="vbmotor_time">振动时间</string>
+	
+	
+	<string name="pwm_start">启动蜂鸣器</string>
+	<string name="pwm_stop">停止蜂鸣器</string>
+	<string name="str_freq">频率</string>
+	
+	
+	<string name="eeprom_defval1">CDIO移动通信终端创新开发平台提供了手机、平板电脑、网络机顶盒、等工业产品开发和创新应用的关键专业技术的学习，为CDIO移动通信终端产品的构思和产品概念的建立提供工程技术基础</string>
+	<string name="eeprom_defval2">CDIO移动通信终端实践平台通过CDIO创新与工程实践软件建立演练平台，以团队作战的方式实现终端产品从无到有的过程，从而培养学生工程基础知识、个人能力、人际团队能力和工程系统能力</string>
+	<string name="eeprom_defval3">CDIO移动通信终端实训平台建立终端产品调试平台，在该平台上，可以通过终端产品散件进行各单元模块的焊接、调试、组装、形成产品的实训过程，培养发现问题、寻找问题规律、解决问题等能力</string>
+	<string name="app_name">Uart2Net</string>
+	<string name="EditText_hint">请输入要发送的信息</string>
+	<string name="Hex_display">HEX显示</string>
+	<string name="Hex_send">HEX发送</string>
+
+
+</resources>

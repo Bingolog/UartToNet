@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_wm_lab" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include layout="@layout/server_net_config" />
+
+        <include layout="@layout/uart_and_send_config" />
+        
+    </LinearLayout>
+    
+    
+
+    <include layout="@layout/message_edit_and_display" />
+
+</LinearLayout>

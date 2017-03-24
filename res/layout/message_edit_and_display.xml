@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_wm_lab"
+  >
+	<ListView
+	    android:id="@+id/list_at_show"
+	    android:layout_width="fill_parent"
+	    android:layout_height="350dp"
+	    android:layout_marginBottom="10dp"
+	    android:layout_marginTop="2dp"
+	    android:divider="#000"
+	    android:dividerHeight="2dp"
+	    android:background="@color/white"
+	    android:stackFromBottom="true"
+	    android:transcriptMode="alwaysScroll" >
+		
+	</ListView>  
+	<TextView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="2dp"/>
+	<EditText 
+	    android:id="@+id/editTextDataInput"
+	    android:layout_width="fill_parent"
+	    android:layout_height="110dp"
+	    android:hint="input data here:"
+	    android:background="@color/white"
+	     android:gravity="top"	/>
+
+</LinearLayout>
